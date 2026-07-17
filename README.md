@@ -14,10 +14,9 @@ This repository is a **documentation project** focused on how to manage AI model
   - operational effort estimates
 
 - **`copilot-model-usage-modes-analysis.md`**  
-  A comparative analysis of three model usage modes:
+  A comparative analysis of two model usage modes:
   1. GitHub-managed models
-  2. Azure Foundry-hosted models used with Copilot workflows
-  3. Self-hosted/third-party provider models via API key (with and without Copilot subscription)
+  2. Self-hosted/third-party provider models via API key (with and without Copilot subscription)
 
 ## Purpose
 
